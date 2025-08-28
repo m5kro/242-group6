@@ -1,7 +1,7 @@
 # CNIT 242 Lab 1 Microsoft Windows Administration Setup
 
 ## Setup Ventoy
-
+Need backslash before username to log into smb share
 
 
 ## Disabling secure boot 
